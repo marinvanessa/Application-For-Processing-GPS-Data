@@ -7,7 +7,7 @@
 
 ## Data Visualization
 
-This Python script **DataPreprocessing** reads location trajectory data from ".plt" files within a dataset containing 181 folders. It defines functions for reading and visualizing the trajectory, iterates through the dataset, and extracts trajectory data from the first ".plt" file encountered in each subfolder. The trajectory visualization function is included but commented out.
+This Python script **DataPreprocessing.ipjnb** reads location trajectory data from ".plt" files within a dataset containing 181 folders. It defines functions for reading and visualizing the trajectory, iterates through the dataset, and extracts trajectory data from the first ".plt" file encountered in each subfolder. The trajectory visualization function is included but commented out.
 
 ## Data Preprocessing
 
